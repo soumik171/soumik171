@@ -94,7 +94,15 @@ Here are some ideas to get you started:
 
 <!-- Snake -->
 
-<img src="https://raw.githubusercontent.com/soumik171/soumik171/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/soumik171/soumik171/output/snake.svg" alt="Snake animation" /> -->
+
+<!-- Pacnman -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumik171/soumik171/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumik171/soumik171/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/soumik171/soumik171/output/pacman-contribution-graph.svg">
+</picture>
 
 <!-- Status -->
 
@@ -126,14 +134,6 @@ Here are some ideas to get you started:
   <img src="https://nirzak-streak-stats.vercel.app/?user=soumik171&theme=blue-green&hide_border=false" height="150" />
 </div>
 <br>
-
-<!-- Pacnman -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumik171/soumik171/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumik171/soumik171/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/soumik171/soumik171/output/pacman-contribution-graph.svg">
-</picture>
 
 <!-- Trophies -->
 
