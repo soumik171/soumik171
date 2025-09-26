@@ -1,10 +1,28 @@
 <img src="banner.png" alt="GitHub Banner" style="width:100%; height:auto; aspect-ratio:2/1; object-fit:cover;">
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi,+I+am+Soumik+Sarker!;I+am+a+CS+student+with+a+CGPA+of+3.95;Interest+in+software+development;Future+fullstack+developer" alt="Typing SVG">
+  </a>
+</p>
+
+<p align="center">
     <a href="https://github.com/soumik171/soumik171"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/soumik171/soumik171/stargazers"><img src="https://img.shields.io/github/stars/soumik171/soumik171?logo=github"></a>
     <a href="https://github.com/soumik171/soumik171/network/members"><img src="https://img.shields.io/github/forks/soumik171/soumik171?color=blue&logo=github"></a>
     <img src="https://komarev.com/ghpvc/?username=soumik171&color=blue&style=flat&label=visitors" alt="visitors"/>
+</p>
+
+<br>
+
+<img align="right" height="200" src="gif.gif"  />
+
+<p align="left">
+    📚 I'm currently learning React, Node<br>
+    🎯 Goals: Wanna be a software developer<br>
+    ✨ Creating bugs since 2022<br>
+    🎲 Fun fact: Love to connect people<br>
+    💬 Ask me anything, I will be more than happy to help 
 </p>
 
 <h3 align="left">PROBLEM SOLVE:</h3>
@@ -134,9 +152,9 @@
 <!-- Trophies -->
 
 <div align="center" color="green">
-<summary>Trophy: Github Profile Trophy</summary>
+<summary><b>Trophy: Github Profile Trophy</b></summary>
 </div>
-
+<br>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=soumik171&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
