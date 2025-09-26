@@ -1,21 +1,10 @@
-## Hi there 👋
+<img src="banner.png" alt="GitHub Banner" style="width:100%; height:auto; aspect-ratio:2/1; object-fit:cover;">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
-  <p align="center">
+<p align="center">
     <a href="https://github.com/soumik171/soumik171"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/soumik171/soumik171/stargazers"><img src="https://img.shields.io/github/stars/soumik171/soumik171?logo=github"></a>
     <a href="https://github.com/soumik171/soumik171/network/members"><img src="https://img.shields.io/github/forks/soumik171/soumik171?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=soumik171" alt="visitors"/>   
+    <img src="https://komarev.com/ghpvc/?username=soumik171&color=blue&style=flat&label=visitors" alt="visitors"/>
 </p>
 
 <h3 align="left">PROBLEM SOLVE:</h3>
@@ -148,10 +137,9 @@ Here are some ideas to get you started:
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumik171" alt="soumik171" /></a>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=soumik171&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 <!--### ✍️ Random Dev Quote  -->
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko) -->
 
