@@ -10,12 +10,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  
+
+<img src="banner.png" alt="GitHub Banner" style="width:100%; height:auto; aspect-ratio:2/1; object-fit:cover;">
+
   <p align="center">
     <a href="https://github.com/soumik171/soumik171"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/soumik171/soumik171/stargazers"><img src="https://img.shields.io/github/stars/soumik171/soumik171?logo=github"></a>
     <a href="https://github.com/soumik171/soumik171/network/members"><img src="https://img.shields.io/github/forks/soumik171/soumik171?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=soumik171" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=nafiulhaqueinan" alt="visitors"/>   
+  
 </p>
 
 <h3 align="left">PROBLEM SOLVE:</h3>
