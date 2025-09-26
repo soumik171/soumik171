@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 
 <!-- Snake -->
 
-<!-- <img src="https://raw.githubusercontent.com/soumik171/soumik171/output/snake.svg" alt="Snake animation" /> -->
+<!-- <img src="https://raw.githubusercontent.com/soumik171/soumik171/output/snake.svg" /> -->
 
 <!-- Pacnman -->
 
