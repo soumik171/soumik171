@@ -10,6 +10,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  
+  <p align="center">
+    <a href="https://github.com/soumik171/soumik171"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/soumik171/soumik171/stargazers"><img src="https://img.shields.io/github/stars/soumik171/soumik171?logo=github"></a>
+    <a href="https://github.com/soumik171/soumik171/network/members"><img src="https://img.shields.io/github/forks/soumik171/soumik171?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=soumik171" alt="visitors"/>   
+</p>
 
 <h3 align="left">PROBLEM SOLVE:</h3>
 <p align="left">
