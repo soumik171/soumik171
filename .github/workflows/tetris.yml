@@ -1,0 +1,29 @@
+name: Generate Tetris animation
+
+on:
+  schedule: # Runs every 24 hours
+    - cron: "0 */24 * * *"
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Tetris contribution graph
+        uses: SamKirkland/github-contribution-tetris@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          output_file: dist/tetris-contribution-graph.svg
+
+      - name: Push Tetris graph to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
