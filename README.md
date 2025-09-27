@@ -108,7 +108,9 @@
 
 <!-- Snake -->
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/soumik171/soumik171/output/snake.svg" alt="Snake animation" />
+</p>
 
 <!-- Status -->
 
@@ -138,6 +140,13 @@
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=soumik171&theme=blue-green&hide_border=false" height="150" />
+</div>
+<br>
+
+<!-- Graph -->
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumik171&radius=16&theme=react&area=true&order=5" height="200" alt="activity-graph graph"  />
 </div>
 <br>
 
