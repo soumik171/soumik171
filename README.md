@@ -108,7 +108,9 @@
 
 <!-- Snake -->
 
-<img src="https://raw.githubusercontent.com/soumik171/soumik171/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumik171/soumik171/output/pacman-contribution-graph.svg" alt="Pacman graph" />
+</p>
 
 <!-- Status -->
 
@@ -136,11 +138,9 @@
 
 <!-- Pacman -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumik171/soumik171/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumik171/soumik171/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/soumik171/soumik171/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumik171/soumik171/output/snake.svg" alt="Snake graph" />
+</p>
 
 <!-- Contributions -->
 
