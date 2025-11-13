@@ -16,6 +16,7 @@
 
 <img align="right" height="200" src="gif.gif"  />
 
+<br>
 <p align="left">
     📚 I'm currently learning React, Node<br>
     🎯 Goals: Wanna be a software developer<br>
