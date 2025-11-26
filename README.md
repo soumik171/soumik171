@@ -159,7 +159,7 @@
 <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumik171&theme=github_dark" alt="Soumik's GitHub Stats"/></td>   
-      <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=soumik171&radius=16&theme=react&area=true&order=5&v=1" height="200" alt="activity-graph graph" />
+      <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=soumik171&radius=16&theme=react&area=true&order=5&v=2" height="200" alt="activity-graph graph" />
       </td>
     </tr>
  </table>
