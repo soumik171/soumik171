@@ -159,7 +159,7 @@
 <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumik171&theme=github_dark" alt="Soumik's GitHub Stats"/></td>   
-      <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=soumik171&radius=16&theme=react&area=true&order=5&v=1" height="200" alt="activity-graph graph" />
+      <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=soumik171&radius=16&theme=react&area=true&order=5&v=2" height="200" alt="activity-graph graph" />
       </td>
     </tr>
  </table>
@@ -174,11 +174,6 @@
 
 <!--CLosing-->
 
-<!-- <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines= Thanks+for+the+visit; Feel+free+to+reach+me" alt="Typing SVG">
-  </a>
-</p> -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+the+visit!!;Feel+free+to+reach+me.." alt="Typing SVG" />
