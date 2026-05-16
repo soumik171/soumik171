@@ -18,9 +18,9 @@
 
 <br>
 <p align="left">
-    📚 I'm currently learning React, Node<br>
-    🎯 Goals: Wanna be a software developer<br>
-    ✨ Creating bugs since 2022<br>
+    📚 Currently trying to master Automation<br>
+    🎯 Goals: Wanna be a software Architect<br>
+    ✨ Solve bugs since 2023<br>
     🎲 Fun fact: Love to connect people<br>
     💬 Ask me anything, I will be more than happy to help 
 </p>
