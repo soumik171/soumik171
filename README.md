@@ -149,8 +149,9 @@
 <table align="center" width="100%" height="100%" >
   <tr>
   <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soumik171&theme=github_dark" alt="Soumik's GitHub Stats"/></td>
-<td><img src="https://nirzak-streak-stats.vercel.app/?user=soumik171&theme=blue-green&hide_border=false"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumik171&theme=github_dark&layout=compact"/></td>
+  <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=soumik171&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF(https://git.io/streak-stats)"/></td>
+<!-- <td><img src="https://nirzak-streak-stats.vercel.app/?user=soumik171&theme=blue-green&hide_border=false"/></td> -->
+<!-- <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumik171&theme=github_dark&layout=compact"/></td> -->
 
   </tr>
 </table>
@@ -159,18 +160,19 @@
 <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumik171&theme=github_dark" alt="Soumik's GitHub Stats"/></td>   
-      <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=soumik171&radius=16&theme=react&area=true&order=5&v=1" height="200" alt="activity-graph graph" />
+      <!-- <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=soumik171&radius=16&theme=react&area=true&order=5&v=1" height="200" alt="activity-graph graph" /> -->
       </td>
     </tr>
  </table>
 
 <!-- Trophies -->
-
+<!--
 ### <p align="center"><i>🏆 Soumik's Github Trophies</i></p>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=soumik171&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 <br>
+-->
 
 <!--CLosing-->
 
